@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\Streams-Homework\Projects\Directory_Traversal\bin\Debug\netcoreapp2.1\Directory_Traversal.deps.json
+C:\Users\Administrator\Desktop\Streams-Homework\Projects\Directory_Traversal\bin\Debug\netcoreapp2.1\Directory_Traversal.runtimeconfig.json
+C:\Users\Administrator\Desktop\Streams-Homework\Projects\Directory_Traversal\bin\Debug\netcoreapp2.1\Directory_Traversal.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Streams-Homework\Projects\Directory_Traversal\bin\Debug\netcoreapp2.1\Directory_Traversal.dll
+C:\Users\Administrator\Desktop\Streams-Homework\Projects\Directory_Traversal\bin\Debug\netcoreapp2.1\Directory_Traversal.pdb
+C:\Users\Administrator\Desktop\Streams-Homework\Projects\Directory_Traversal\obj\Debug\netcoreapp2.1\Directory_Traversal.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Streams-Homework\Projects\Directory_Traversal\obj\Debug\netcoreapp2.1\Directory_Traversal.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Streams-Homework\Projects\Directory_Traversal\obj\Debug\netcoreapp2.1\Directory_Traversal.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Streams-Homework\Projects\Directory_Traversal\obj\Debug\netcoreapp2.1\Directory_Traversal.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Streams-Homework\Projects\Directory_Traversal\obj\Debug\netcoreapp2.1\Directory_Traversal.dll
+C:\Users\Administrator\Desktop\Streams-Homework\Projects\Directory_Traversal\obj\Debug\netcoreapp2.1\Directory_Traversal.pdb

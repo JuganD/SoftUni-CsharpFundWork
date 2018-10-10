@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Streams-Homework\Projects\Copy_Binary_File\bin\Debug\netcoreapp2.1\Copy_Binary_File.deps.json
+C:\Users\Administrator\Desktop\Streams-Homework\Projects\Copy_Binary_File\bin\Debug\netcoreapp2.1\Copy_Binary_File.runtimeconfig.json
+C:\Users\Administrator\Desktop\Streams-Homework\Projects\Copy_Binary_File\bin\Debug\netcoreapp2.1\Copy_Binary_File.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Streams-Homework\Projects\Copy_Binary_File\bin\Debug\netcoreapp2.1\Copy_Binary_File.dll
+C:\Users\Administrator\Desktop\Streams-Homework\Projects\Copy_Binary_File\bin\Debug\netcoreapp2.1\Copy_Binary_File.pdb
+C:\Users\Administrator\Desktop\Streams-Homework\Projects\Copy_Binary_File\obj\Debug\netcoreapp2.1\Copy_Binary_File.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Streams-Homework\Projects\Copy_Binary_File\obj\Debug\netcoreapp2.1\Copy_Binary_File.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Streams-Homework\Projects\Copy_Binary_File\obj\Debug\netcoreapp2.1\Copy_Binary_File.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Streams-Homework\Projects\Copy_Binary_File\obj\Debug\netcoreapp2.1\Copy_Binary_File.dll
+C:\Users\Administrator\Desktop\Streams-Homework\Projects\Copy_Binary_File\obj\Debug\netcoreapp2.1\Copy_Binary_File.pdb

@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\Streams-Homework\Projects\Word_Count\bin\Debug\netcoreapp2.1\Word_Count.deps.json
+C:\Users\Administrator\Desktop\Streams-Homework\Projects\Word_Count\bin\Debug\netcoreapp2.1\Word_Count.runtimeconfig.json
+C:\Users\Administrator\Desktop\Streams-Homework\Projects\Word_Count\bin\Debug\netcoreapp2.1\Word_Count.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Streams-Homework\Projects\Word_Count\bin\Debug\netcoreapp2.1\Word_Count.dll
+C:\Users\Administrator\Desktop\Streams-Homework\Projects\Word_Count\bin\Debug\netcoreapp2.1\Word_Count.pdb
+C:\Users\Administrator\Desktop\Streams-Homework\Projects\Word_Count\obj\Debug\netcoreapp2.1\Word_Count.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Streams-Homework\Projects\Word_Count\obj\Debug\netcoreapp2.1\Word_Count.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Streams-Homework\Projects\Word_Count\obj\Debug\netcoreapp2.1\Word_Count.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Streams-Homework\Projects\Word_Count\obj\Debug\netcoreapp2.1\Word_Count.dll
+C:\Users\Administrator\Desktop\Streams-Homework\Projects\Word_Count\obj\Debug\netcoreapp2.1\Word_Count.pdb
+C:\Users\Administrator\Desktop\Streams-Homework\Projects\Word_Count\obj\Debug\netcoreapp2.1\Word_Count.csprojAssemblyReference.cache
